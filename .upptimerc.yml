@@ -2,6 +2,9 @@
 owner: r00xat # Your GitHub organization or username, where this repository lives
 repo: Upptime # The name of this repository
 
+assignees:
+  - r00xat
+  
 sites:
   - name: r00x.at
     url: https://r00x.at
