@@ -4,17 +4,19 @@
     "url": "https://r00x.at",
     "icon": "https://icons.duckduckgo.com/ip3/r00x.at.ico",
     "slug": "r00x-at",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 1439,
-    "timeWeek": 1317,
-    "timeMonth": 1313,
-    "timeYear": 1213,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.95%",
+    "time": 1211,
+    "timeDay": 885,
+    "timeWeek": 1270,
+    "timeMonth": 1304,
+    "timeYear": 1211,
+    "dailyMinutesDown": {
+      "2026-10-04": 146
+    }
   }
 ]
